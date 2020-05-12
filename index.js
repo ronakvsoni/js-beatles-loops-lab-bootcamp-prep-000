@@ -32,7 +32,7 @@ var b = johnLennonFacts(facts)
 console.log(b)
 
 
-
+let num = [0]
 function iLoveTheBeatles(num) {
   var array = [];
   do {
@@ -41,3 +41,5 @@ function iLoveTheBeatles(num) {
   } while (num < 15);
   return array
 }
+var c = iLoveTheBeatles(num)
+console.log(c)
