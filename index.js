@@ -32,7 +32,7 @@ var b = johnLennonFacts(facts)
 console.log(b)
 
 
-let num = [0]
+let num = [8]
 function iLoveTheBeatles(num) {
   var array = [];
   do {
